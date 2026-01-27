@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+# Welcome to Repository!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This repository contains Python code demonstrating a two-stage XGBoost model for zero-day network intrusion detection. The approach is designed to identify novel attack types (zero-day attacks) that were not present in the training data.
